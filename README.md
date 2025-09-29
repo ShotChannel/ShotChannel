@@ -46,6 +46,8 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 - Geometry Dash: Hardest Demon: [Windy Landscape by Woogi (Insane Demon)](https://www.youtube.com/watch?v=sTBN3K_c9eQ).
 - Project DIVA: Hardest: Ievan Polkka (EXTREME 8*).
 - Project SEKAI: Hardest: JINSEI (EXPERT 31*).
+- Coding experience: None XD
+- Experience with girls: None XD
 
 ### Truly a gamer, right? XD
 
