@@ -1,4 +1,4 @@
-# 🖥️ Chào ae! | Welcome, my friend! | いらっしゃいませ！
+# 🖥️ CHÀO AE! | WELCOME, MY FRIENDS! | いらっしゃいませ！
 
 ## I am ShotChannel | OverdoseS .
 
