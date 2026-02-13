@@ -5,13 +5,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Shot%20Channel|OverdoseS&textBg=false&desc=ft.%20Hatsune%20Miku.&descAlignY=66&animation=fadeIn">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&pause=1000&color=F7F7F7&width=435&lines=You+are+watching+a+random+dude's+GitHub...;who+has+just+begun+his+journey+into+coding!;+Or+perhaps%2C+you+are+witnessing+the+beginning...;++++++++++++++++++++++++++of+a+story.+++)](https://git.io/typing-svg)
-
 </div>
 
 ![My Fedora KDE Plasma Desktop RIP](Images/Screenshot_20250928_222855.png)
 
 *Background image: Drawn by [Konya Karasue](https://www.pixiv.net/en/users/10109777).*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&pause=1000&color=F7F7F7&width=435&lines=You+are+watching+a+random+dude's+GitHub...;who+has+just+begun+his+journey+into+coding!;+Or+perhaps%2C+you+are+witnessing+the+beginning...;++++++++++++++++++++++++++of+a+story.+++)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39C5BB,50:7C3AED,100:39C5BB&height=4" width="100%"/>
 
