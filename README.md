@@ -33,7 +33,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 
 <div align="center">
    
-## 🖥️FASTFETCH TIME!!!
+## 🖥️ FASTFETCH TIME !!
 </div>
 
 <div align="center">
