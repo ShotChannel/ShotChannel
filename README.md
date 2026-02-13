@@ -38,21 +38,21 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│    >fastfetch                                               │
-│                                                             │
-│         /\              ShotChannel@archlinux               │
-│        /  \             ----------------------------        │
-│       /\  /\            PC       LENOVO IdeaPad Slim 5      │
-│      /  \/  \           OS       Arch Linux x86_64 (btw)    │
-│     / /\  /\ \          WM       Hyprland                   │
-│    /_/  \/  \_\         Terminal Kitty                      │
-│                         Shell    Fish                       │
-│                         Editor   Zed + NeoVim               │
-│                         Bar      Waybar + EWW               │
-│                         Music    Hatsune Miku               │
-                  │                         Uptime   2 baths away               │                  
-└─────────────────────────────────────────────────────────────┘
+      ┌─────────────────────────────────────────────────────────────┐
+      │    >fastfetch                                               │
+      │                                                             │
+      │         /\              ShotChannel@archlinux               │
+      │        /  \             ----------------------------        │
+      │       /\  /\            PC       LENOVO IdeaPad Slim 5      │
+      │      /  \/  \           OS       Arch Linux x86_64 (btw)    │
+      │     / /\  /\ \          WM       Hyprland                   │
+      │    /_/  \/  \_\         Terminal Kitty                      │
+      │                         Shell    Fish                       │
+      │                         Editor   Zed + NeoVim               │
+      │                         Bar      Waybar + EWW               │
+      │                         Music    Hatsune Miku               │
+                        │                         Uptime   2 baths away               │                  
+      └─────────────────────────────────────────────────────────────┘
 ```
 
 
