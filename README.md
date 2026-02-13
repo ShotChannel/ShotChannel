@@ -93,13 +93,13 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 <details>
 <summary><b>2.1. Why Arch Linux?</b></summary>
 
-**>>Most because of how lightweight it is. Pacman and AUR are awesome. And last but not least, I am advanced enough to deal with Arch (I installed Arch manually btw).**
+**Most because of how lightweight it is. Pacman and AUR are awesome. And last but not least, I am advanced enough to deal with Arch (I installed Arch manually btw).**
 </details>
 
 <details>
 <summary><b>3. Why did you choose KDE Plasma as your current Desktop Environment (DE)?</b></summary>
 
-* I do acknowledge the flexibility of the Window Manager (WM), but KDE Plasma has already done 99% of the things that I need and can be done in a WM. For example, the Plasma panel with the [Plasma Panel Colorizer widget](https://github.com/luisbocanegra/plasma-panel-colorizer) is a very good alternative to [Waybar](https://github.com/Alexays/Waybar?tab=readme-ov-file); or the script [Krohnkite](https://github.com/esjeon/krohnkite) can make KDE Plasma a tiling desktop like Hyprland or i3.*\
+*I do acknowledge the flexibility of the Window Manager (WM), but KDE Plasma has already done 99% of the things that I need and can be done in a WM. For example, the Plasma panel with the [Plasma Panel Colorizer widget](https://github.com/luisbocanegra/plasma-panel-colorizer) is a very good alternative to [Waybar](https://github.com/Alexays/Waybar?tab=readme-ov-file); or the script [Krohnkite](https://github.com/esjeon/krohnkite) can make KDE Plasma a tiling desktop like Hyprland or i3.*\
 *It's not an exaggeration to say that using KDE Plasma is the closest experience to using a WM.*
 
 **Update: I am using Hyprland now. And it is not as hard as I thought. And it IS amazing!**
