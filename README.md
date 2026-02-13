@@ -39,8 +39,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   $ fastfetch                                               │
+│    >fastfetch                                               │
 │                                                             │
 │         /\              ShotChannel@archlinux               │
 │        /  \             ----------------------------        │
