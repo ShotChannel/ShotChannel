@@ -80,7 +80,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 </details>
 
 <details>
-<summary><b>2. Why did you choose Fedora Linux as your current distro?</b></summary>
+<summary><b>2. Why did you choose Fedora Linux as your first distro?</b></summary>
 
 *I asked a friend on Discord, and he just randomly picked me one of the famous distros, which is Fedora (lol).*\
 *The funny thing is, after I've used Fedora for a while, I did a test on [Distro Chooser](distrochooser.de), and after the test, the no.1 distro recommendation was Fedora!*\
@@ -92,13 +92,13 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 </details>
 
 <details>
-<summary><b>2.1. Why Arch Linux?</b></summary>
+<summary><b>2.1. Why did you choose Arch Linux as your current distro?</b></summary>
 
 **Most because of how lightweight it is. Pacman and AUR are awesome. And last but not least, I am advanced enough to deal with Arch (I installed Arch manually btw).**
 </details>
 
 <details>
-<summary><b>3. Why did you choose KDE Plasma as your current Desktop Environment (DE)?</b></summary>
+<summary><b>3. Why did you choose KDE Plasma as your first Desktop Environment (DE)?</b></summary>
 
 *I do acknowledge the flexibility of the Window Manager (WM), but KDE Plasma has already done 99% of the things that I need and can be done in a WM. For example, the Plasma panel with the [Plasma Panel Colorizer widget](https://github.com/luisbocanegra/plasma-panel-colorizer) is a very good alternative to [Waybar](https://github.com/Alexays/Waybar?tab=readme-ov-file); or the script [Krohnkite](https://github.com/esjeon/krohnkite) can make KDE Plasma a tiling desktop like Hyprland or i3.*\
 *It's not an exaggeration to say that using KDE Plasma is the closest experience to using a WM.*
@@ -107,7 +107,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 </details>
 
 <details>
-<summary><b>3.1. Why Hyprland?</b></summary>
+<summary><b>3.1. Why did you choose Hyprland as your current Window Manager (WM)?</b></summary>
 
 **It has a lot of pre-configured dotfiles, so I can actually learn and use it at the same time. Hyprland's configs are pretty straightforward, so there is not really any hiccup switching from graphical settings to editing plain text. And as I said, I was amazed by how lightweight, flexible and powerful a WM can be.**
 </details>
