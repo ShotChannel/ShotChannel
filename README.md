@@ -143,7 +143,7 @@ Counter-Strike; Geometry Dash; Project DIVA; Project SEKAI.
 - <b>Project DIVA</b>: Hardest: Ievan Polkka (EXTREME 8*).
 - <b>Project SEKAI</b>: Hardest: JINSEI (EXPERT 31*).
 - <b>Coding experience</b>: None XD
-- <b>Experience with girls</b>: None XD (**Update: Now I do (I still cannot believe this)) :)) Life is funny, unpredictable and nice at the same time XD**)
+- <b>Experience with girls</b>: None XD (**Update: Now I do (I still cannot believe this)) :)) Life is funny, unpredictable and nice at the same time XD**
 **LINUX USERS CAN FIND LOVE!!!11!**
 
 <div align="center">
