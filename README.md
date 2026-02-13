@@ -51,7 +51,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
          │                         Editor   Zed + NeoVim               │
          │                         Bar      Waybar + EWW               │
          │                         Music    Hatsune Miku               │
-                              │                         Uptime   2 baths away               │                  
+                             │                         Uptime   2 baths away               │                  
          └─────────────────────────────────────────────────────────────┘
 ```
 
