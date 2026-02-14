@@ -74,7 +74,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 <details>
 <summary><b>1. Are you really into coding?</b></summary>
    
-*No, I'm not :) I am more into graphic design. Honestly, if I were never using Linux, I would never do all of these.*\
+*No, I'm not :) I am more into graphic design. Honestly, if I were never using Linux, I would never do all of these.*
 
 **Update: Now I am actually into coding :))) I saw that Computer Science, in general, is going to earn me a brighter career and a higher chance for success than Graphic Design. I'm learning a little of drawing tho...**
 </details>
@@ -88,7 +88,7 @@ The day I made my first bootable USB and installed Fedora Linux 42 (KDE Plasma) 
 
 **Update: I am now using Arch Linux (btw).**
 **Why? Both Fedora itself and I made some silly mistakes, and as a consequence, Fedora corrupted all of my passwords, including su's password, and I wiped all of my computer partitions.**
-**Thank you, Fedora Linux. It was very fun. Screw you tho, SELinux.**
+**Thank you, Fedora Linux. It was very fun :) Screw you tho, SELinux.**
 </details>
 
 <details>
